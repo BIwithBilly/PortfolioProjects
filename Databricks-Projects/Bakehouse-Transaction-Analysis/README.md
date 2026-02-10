@@ -13,3 +13,6 @@ Utilized the Databricks `Sales_Transactions` and `Product_Sales_Desc` sample dat
 
 ## Portfolio Highlight
 The included screenshot demonstrates the dashboard filtered for **Mastercard** transactions with a **Quantity of 20 or more**, showcasing the system's ability to isolate high-value wholesale-style orders from standard retail traffic.
+
+## Visualizations
+[View Full Transaction Dashboard Screenshot](Bakehouse-Transaction-Dashboard.png)
