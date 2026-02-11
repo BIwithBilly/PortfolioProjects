@@ -19,6 +19,7 @@ SELECT product, sum(totalPrice)
 FROM samples.bakehouse.sales_transactions
 GROUP by product
 ORDER BY sum(totalPrice) DESC;
+```
 
 ## Key Insights from Analysis
 * **Golden Gate Ginger** is the top revenue driver at **$11,595**.
