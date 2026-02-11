@@ -14,11 +14,10 @@ The dashboard logic is split between static baseline charts and dynamic visualiz
 ### 1. The Static Baseline (Total Sales)
 The following query powers the **"Total Price by Product"** chart. It remains static to provide a constant reference point of the top-performing products across the entire dataset.
 
-```sql
 SELECT product, sum(totalPrice)
 FROM samples.bakehouse.sales_transactions
 GROUP by product
-ORDER BY sum(totalPrice) DESC;```
+ORDER BY sum(totalPrice) DESC;
 
 ## Key Insights from Analysis
 * Golden Gate Ginger is the top revenue driver at $11,595.
@@ -32,4 +31,4 @@ The remaining visualizations use Databricks Global Filters. This allows users to
 The included dashboard screenshot showcases an interactive session where the data is filtered for Mastercard transactions with a Quantity of 20 or more. This view allows a business owner to instantly pivot from "Retail" traffic to "Wholesale/Bulk" order trends.
 
 ## Visualizations
-View Full Transaction Dashboard Screenshot
+[View Full Transaction Dashboard Screenshot](Bakehouse-Transaction-Dashboard.png)
