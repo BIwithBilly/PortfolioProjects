@@ -14,6 +14,7 @@ The dashboard logic is split between static baseline charts and dynamic visualiz
 ### 1. The Static Baseline (Total Sales)
 The following query powers the "Total Price by Product" chart. It remains static to provide a constant reference point of the top-performing products across the entire dataset.
 
+```sql
 SELECT product, sum(totalPrice)
 FROM samples.bakehouse.sales_transactions
 GROUP by product
