@@ -1,18 +1,21 @@
-# Bakehouse Transaction Dashboard (Business Intelligence)
+# Bakehouse Transaction Analysis (Business Intelligence)
 
 ## Project Overview
-This project demonstrates the creation of an interactive Business Intelligence (BI) tool using the **Databricks Lakehouse** platform. The focus was on engineering a dynamic user experience that allows stakeholders to filter massive datasets to find specific operational answers.
+This project demonstrates the creation of an interactive Business Intelligence (BI) tool using the **Databricks Lakehouse** platform. The focus was on engineering a dynamic user experience that allows stakeholders to filter massive datasets—such as the `samples.bakehouse` records—to find specific operational answers in real-time.
 
 ## Key Features
-* **Multi-Dimensional Filtering:** Implemented Global Filters for `Payment Method` and `Quantity` to allow for real-time data drilling.
-* **Comparative Analysis:** Designed the dashboard to show static "Global" metrics alongside dynamic "Filtered" metrics for immediate context.
-* **Time-Series Visualization:** Developed logic to track transaction volumes over time, responding dynamically to user input.
+* **Multi-Dimensional Filtering:** Implemented Global Filters for `Payment Method` and `Quantity` to allow for deep-dive analysis into specific customer segments.
+* **Baseline vs. Segment Architecture:** Designed the dashboard with a "Control" layer to compare filtered results against the total dataset for better context.
+* **Aggregated Reporting:** Developed SQL logic to rank product performance by total revenue, identifying high-value items across the retail catalog.
 
-## Data Source
-Utilized the Databricks `Sales_Transactions` and `Product_Sales_Desc` sample datasets to model a retail "Bakehouse" environment.
+## Technical Implementation
+The dashboard logic is split between static baseline charts and dynamic visualizations that react to user input.
 
-## Portfolio Highlight
-The included screenshot demonstrates the dashboard filtered for **Mastercard** transactions with a **Quantity of 20 or more**, showcasing the system's ability to isolate high-value wholesale-style orders from standard retail traffic.
+### 1. The Static Baseline (Total Sales)
+The following query powers the **"Total Price by Product"** chart. It remains static to provide a constant reference point of the top-performing products across the entire dataset.
 
-## Visualizations
-[View Full Transaction Dashboard Screenshot](Bakehouse-Transaction-Dashboard.png)
+```sql
+SELECT product, sum(totalPrice)
+FROM samples.bakehouse.sales_transactions
+GROUP by product
+ORDER BY sum(totalPrice) DESC;
