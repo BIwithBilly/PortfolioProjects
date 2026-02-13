@@ -1,41 +1,42 @@
-# Data Analyst Portfolio 
+# 🚀 Data Analytics & Business Intelligence Portfolio
+Welcome to my portfolio! This repository is organized by technology to showcase my proficiency across the full data analytics stack—from automated collection and cloud engineering to executive-level storytelling.
 
-Welcome to my portfolio! This repository is organized by technology to showcase my proficiency across the full data analytics stack—from automated collection and cleaning to advanced visualization and AI-powered insights.
-
-## 🛠️ Skills & Technologies
-- **Data Engineering:** ETL/ELT Pipelines, Fivetran, Delta Lake, Unity Catalog, Web Scraping.
-- **Languages:** SQL (MySQL, Databricks SQL), Python (PySpark, Pandas).
-- **Platforms:** Databricks Unified Analytics, GitHub.
-- **AI & BI:** Generative AI (Databricks Genie), Interactive Dashboards.
-- **Visualization:** Power BI & Tableau (Coming Soon).
+## 🛠️ Tech Stack & Expertise
+- **Cloud & Big Data:** Databricks Unified Analytics, Delta Lake, Unity Catalog, PySpark.
+- **BI & Visualization:** Power BI (DAX, Star Schema), Tableau (Visual Storytelling).
+- **Languages:** SQL (Advanced CTEs/Window Functions), Python (Pandas, BeautifulSoup).
+- **Spreadsheets:** Advanced Excel (Pivot Tables, Automated Cleaning, Dashboards).
 
 ---
 
 ## 📂 Project Categories
 
-### 🧱 [Databricks & Big Data](./Databricks-Projects/)
-Focuses on large-scale data engineering and AI-powered business intelligence.
-* **[NYC Taxi AI/BI Genie Dashboard](./Databricks-Projects/Genie-NYC-Taxi/):** Implementation of Generative AI to allow natural language querying of massive datasets.
-* **[Bakehouse Transaction Analysis](./Databricks-Projects/Bakehouse-Transaction-Analysis/):** Retail trend forecasting using PySpark and time-series visualization.
-* **[Emissions Analysis](./Databricks-Projects/Emissions-Analysis/):** Large-scale environmental data processing and Delta Lake optimization.
+### 🧱 [Databricks & Cloud Engineering](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects)
+*Scalable data processing and AI-driven insights.*
+- **[NYC Taxi AI/BI Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects/Genie-NYC-Taxi):** Implementation of Generative AI to allow natural language querying of massive datasets.
+- **[Bakehouse Transaction Analysis](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects/Bakehouse-Transaction-Analysis):** Retail trend forecasting and data modeling using PySpark.
+- **[Emissions Analysis](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects/Emissions-Analysis):** Large-scale environmental data processing and Delta Lake optimization.
 
-### 🗄️ [MySQL Projects](./MySQL-Projects/)
-Focuses on database management and advanced data cleaning.
-* **[World Layoffs Data Project](./MySQL-Projects/Layoffs_Project/):** A full-cycle project transforming raw data into clean datasets using CTEs and Window Functions.
+### 📊 [Power BI - Interactive Analytics](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects)
+*Advanced modeling and DAX-driven business intelligence.*
+- **[US Bank Failures Analysis](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_Banks):** A deep dive into 25 years of FDIC data using time-series animation and Star Schema modeling.
+- **[Data Professional Survey](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/Data-Professional-Survey):** Comprehensive breakdown of industry salary and tool trends.
 
-## 📊 [Excel Projects](./Excel-Projects/)
-Focuses on advanced formulas, pivot tables, and data storytelling within spreadsheets.
-* **[Bike Sales Dashboard](./Excel-Projects/):** A full-cycle data analysis project featuring automated data cleaning, nested IF statements for age bracketing, and a dynamic interactive dashboard with slicers and timeline filters.
+### 🎨 [Tableau - Visual Storytelling](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects)
+*Transforming complex data into intuitive, stakeholder-ready dashboards.*
+- **[AirBnB Market Analysis](https://public.tableau.com/app/profile/billy.lackey/viz/AirBnBproject_17112461877470/Dashboard1):** Geospatial revenue analysis for Seattle real estate investment strategy.
+- **[Global CO2 Emissions Tracker](https://public.tableau.com/app/profile/billy.lackey/viz/My1stDashboard_17112003730700/Dashboard1):** Visualizing historical environmental trends and regional growth rates.
 
-### 🐍 [Python & Pandas Projects](./Python_Pandas-Projects/)
-Focuses on automation and web scraping.
-* **[Amazon Web Scraper](./Python_Pandas-Projects/Amazon-Web-Scraper/):** Automated price tracking system using BeautifulSoup and Selenium.
-* **[Wikipedia Data Pipeline](./Python_Pandas-Projects/Wikipedia-Web-Scraper/):** Real-time data extraction and cleaning.
+### 📈 [Excel - Advanced Spreadsheets](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Excel-Projects)
+*Automated reporting and dynamic dashboarding.*
+- **[Bike Sales Dashboard](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Excel-Projects):** A full-cycle analysis featuring automated data cleaning, nested IF logic for age bracketing, and interactive slicers.
 
-### 📊 [Power BI & Tableau](./PowerBI-Projects/)
-*Coming Soon:* Interactive dashboards focusing on business storytelling. 
+### 🗄️ [SQL & Python Engineering](https://github.com/BIwithBilly/PortfolioProjects/blob/main/MySQL-Projects)
+*The foundation of clean, reliable data pipelines.*
+- **[MySQL: World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/blob/main/MySQL-Projects/Layoffs_Project):** Transforming messy raw data into analysis-ready sets using CTEs and Window Functions.
+- **[Python: Amazon Price Tracker](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Python_Pandas-Projects/Amazon-Web-Scraper):** Automated price tracking system using BeautifulSoup and real-time email alerting.
 
 ---
 
 ## 📫 Let's Connect!
-[Your LinkedIn Profile Link] | [Your Email or Portfolio Website Link]
+**[LinkedIn Profile](YOUR_LINKEDIN_URL)** | **[Portfolio Website](https://biwithbilly.github.io/index.html)** | **Email: [YourEmail@Example.com]**
