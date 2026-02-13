@@ -8,6 +8,11 @@ This Power BI dashboard visualizes the history of bank failures in the United St
 * **Geographic Hotspots:** Georgia and Florida lead the nation in total bank failures over the 25-year period.
 * **Economic Cycles:** The dashboard illustrates the stark contrast between the "zero-failure" years of 2021-2022 and the resurgence of high-profile failures in 2023.
 
+## 🚀 Future Enhancements & In-Depth Analysis
+While the current dashboard identifies where the highest *frequency* of failures occurred, a more robust economic impact analysis could be performed by:
+* **Integrating Asset Data:** Bringing in the total assets of failed institutions to identify cities and states that suffered the largest financial losses, rather than just the highest number of closures.
+* **Economic Correlation:** Overlaying federal interest rate hikes or regional unemployment data to identify leading indicators of banking stress.
+
 ## 🛠️ Technical Details
 * **Data Source:** [FDIC Bank Failures List](https://www.fdic.gov/bank-failures)
 * **Modeling:** Utilized a Star Schema with a dedicated **Dates Table** generated via `CALENDARAUTO()`.
