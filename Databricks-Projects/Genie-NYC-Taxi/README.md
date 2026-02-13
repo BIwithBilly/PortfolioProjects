@@ -16,6 +16,14 @@ Inspired by the "Learn Databricks in Under 2 Hours" series by **Alex the Analyst
 * **Automated Insights:** Real-time visualizations of trip volumes, fare distributions, and peak pickup hours.
 * **Conversational Analytics (Genie):** A dedicated Genie space that allows non-technical stakeholders to ask questions like *"What was the average tip percentage for trips over 10 miles?"* * **Data Intelligence:** Leveraging the Unity Catalog to provide governed, secure access to the `samples.nyctaxi.trips` dataset.
 
+### 🤖 Example Genie Queries
+To demonstrate the power of the AI/BI Genie space, I configured the following natural-language prompts to test the model's ability to translate business questions into SQL:
+
+* **Financial Insights:** *"Show me the total fare amount by vendor for the last 30 days."*
+* **Operational Trends:** *"Which pickup locations have the highest average trip distance during rush hour?"*
+* **Customer Behavior:** *"What is the average tip percentage for trips that originated at JFK airport?"*
+* **Efficiency Metrics:** *"Compare the total number of trips versus average fare amount per day."*
+
 ## 🗺️ Dashboard Preview
 
 ![NYC Taxi Dashboard](./NYC_Taxi_Dashboard_Genie.png)
