@@ -12,6 +12,13 @@ This directory contains a collection of Power BI projects focused on transformin
 * **The Solution:** Cleaned 20+ columns of messy data and built a dynamic dashboard to visualize global salary trends and job satisfaction.
 * **Key Tech:** Power Query (M), Salary Parsing, Dynamic Slicers, and Embedded Video Demos.
 
+## 🏦 [US Bank Failures Analysis (2000 - Present)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_Banks)
+*Focus: Risk Management & Economic Historical Trends*
+
+- **The Problem:** Identifying patterns in banking instability over a 25-year period using messy FDIC data.
+- **The Solution:** Developed a time-series dashboard featuring a "Play Axis" animation to track the geographical spread of bank closures, specifically highlighting the 2008 financial crisis.
+- **Key Tech:** Star Schema Modeling, CALENDARAUTO() DAX, Play Axis Visuals, and Power Query standardization.
+
 ---
 
 ## 🛠️ Core Competencies
