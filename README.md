@@ -23,9 +23,9 @@ Focuses on large-scale data engineering and AI-powered business intelligence.
 Focuses on database management and advanced data cleaning.
 * **[World Layoffs Data Project](./MySQL-Projects/Layoffs_Project/):** A full-cycle project transforming raw data into clean datasets using CTEs and Window Functions.
 
-### 📊 [Excel Projects](./Excel-Projects/)
+## 📊 [Excel Projects](./Excel-Projects/)
 Focuses on advanced formulas, pivot tables, and data storytelling within spreadsheets.
-* **[Project Name Here]:** Brief description of what you did (e.g., "Created an interactive sales dashboard using Pivot Tables and VLOOKUPs to track monthly revenue.")
+* **[Bike Sales Dashboard](./Excel-Projects/):** A full-cycle data analysis project featuring automated data cleaning, nested IF statements for age bracketing, and a dynamic interactive dashboard with slicers and timeline filters.
 
 ### 🐍 [Python & Pandas Projects](./Python_Pandas-Projects/)
 Focuses on automation and web scraping.
