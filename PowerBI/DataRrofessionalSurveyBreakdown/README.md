@@ -7,7 +7,7 @@ This project transforms raw survey data from thousands of data professionals int
 ![Main Dashboard Preview](./DataProfessionalSurveyBreakdown.png)
 
 > [!IMPORTANT]
-> **[Click here to watch the Interaction Demo](./DataProfessionalServeyInteraction.mp4)** > *(Note: GitHub may require you to download or view the raw file to play the video depending on your browser settings.)*
+> **[Click here to watch the Interaction Demo](https://github.com/user-attachments/assets/d5bddd66-1949-4de6-9023-cda9817dedd6)** > *(Note: GitHub may require you to download or view the raw file to play the video depending on your browser settings.)*
 
 ---
 
