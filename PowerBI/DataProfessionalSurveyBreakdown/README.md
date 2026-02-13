@@ -4,7 +4,7 @@ This project transforms raw survey data from thousands of data professionals int
 
 ## 🚀 The Dashboard in Action
 
-![Main Dashboard Preview](./DataProfessionalSurveyBreakdown.png)
+![Main Dashboard Preview](<img width="2340" height="1330" alt="DataProfessionalSurveyBreakdown" src="https://github.com/user-attachments/assets/90bced48-dd9e-47df-be70-1a5957763f67" />)
 
 > [!IMPORTANT]
 > **[Click here to watch the Interaction Demo](https://github.com/user-attachments/assets/f89f414e-abea-4b55-9b60-0a127d9b7831)** > *(Note: GitHub may require you to download or view the raw file to play the video depending on your browser settings.)*
