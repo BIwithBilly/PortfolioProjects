@@ -24,10 +24,15 @@ Before visualization, the raw survey data required significant cleaning in **Pow
 
 ---
 
-## 📊 Key Features & DAX
-* **Dynamic Slicers:** Filter by Country, Education Level, and Programming Language.
-* **Custom Tooltips:** Hover over charts to see detailed breakdowns without cluttering the main view.
-* **Star Schema:** Optimized the data model for performance by separating Fact and Dimension tables.
+## 📊 Technical Architecture
+* **Single-Table Design:** For this survey analysis, a "Flat Table" architecture was utilized to maximize performance for rapid filtering and ad-hoc slicing across 20+ survey dimensions.
+* **Custom Tooltips:** Implemented hover-over report pages to provide deep-dive details on salary by country without cluttering the primary visuals.
+* **Conditional Formatting:** Used visual cues to highlight outliers in the "Years of Experience" vs. "Salary" correlation.
+
+## 🧮 Sample DAX Measures
+To ensure accurate reporting, I developed several measures to handle the survey's numerical ranges:
+* **Average Salary:** `Avg Salary = AVERAGE('SurveyData'[Salary_Parsed])`
+* **Response Count:** Used to track total participants across different programming language filters.
 
 ## 📈 Insights Found
 1. **Python vs R:** Python remains the dominant language, but specialized roles showing high R usage correlate with specific academic backgrounds.
