@@ -3,15 +3,26 @@
 This project transforms raw survey data from thousands of data professionals into an interactive executive dashboard. It highlights salary trends, job satisfaction, and the most popular programming languages across the industry.
 
 ## 🚀 The Dashboard in Action
-[Watch the Interaction Demo](./DataProfessionalServeyInteraction.mp4)
+
+![Main Dashboard Preview](./DataProfessionalSurveyBreakdown.png)
+
+> [!IMPORTANT]
+> **[Click here to watch the Interaction Demo](./DataProfessionalServeyInteraction.mp4)** > *(Note: GitHub may require you to download or view the raw file to play the video depending on your browser settings.)*
+
+---
 
 ## 🛠️ Data Transformation (The "Dirty" Work)
-Before visualization, the raw survey data required significant cleaning in **Power Query**:
+Before visualization, the raw survey data required significant cleaning in **Power Query**. This process ensured that messy, user-entered survey fields were standardized for accurate reporting.
+
+**Key Cleaning Steps:**
 * **Column Standardization:** Cleaned and categorized inconsistent job titles (e.g., merging "Data Scientist" and "Junior DS").
 * **Salary Parsing:** Converted text-based salary ranges into numerical averages for calculation.
 * **Filtering:** Removed null responses and "troll" entries to ensure data integrity.
 
-> **View Transformation:** [Link to Power Query Screenshot or list of steps]
+### Power Query Transformation Steps:
+![Data Cleansing Steps](./DPS-DataCleansing.png)
+
+---
 
 ## 📊 Key Features & DAX
 * **Dynamic Slicers:** Filter by Country, Education Level, and Programming Language.
