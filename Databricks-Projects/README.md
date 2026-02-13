@@ -6,7 +6,7 @@ This repository serves as a centralized hub for big data projects developed with
 
 ## 📂 Featured Projects
 
-### 🚕 [NYC Taxi AI/BI Genie Dashboard](./Genie-NYC-Taxi/)
+### 🚕 [NYC Taxi AI/BI Genie Dashboard](./Genie-NYC-Taxi)
 **Focus:** *Generative AI & Conversational BI*
 * **Highlights:** Implementation of **Databricks Genie**, allowing users to query data using natural language.
 * **Tech:** AI/BI Dashboards, SQL, Genie Spaces, System Samples.
