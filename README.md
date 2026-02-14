@@ -11,7 +11,7 @@ Welcome to my portfolio! This repository is organized by technology to showcase 
 
 ## 📂 Project Categories
 
-### 🧱 [Databricks & Cloud Engineering](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects)
+### 🧱 [Databricks Data Intelligence & Analytics](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects)
 *Scalable data processing and AI-driven insights.*
 - **[NYC Taxi AI/BI Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects/Genie-NYC-Taxi):** Implementation of Generative AI to allow natural language querying of massive datasets.
 - **[Bakehouse Transaction Analysis](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Databricks-Projects/Bakehouse-Transaction-Analysis):** Retail trend forecasting and data modeling using PySpark.
