@@ -28,6 +28,8 @@ Beyond analysis, these projects utilize modern ingestion patterns to centralize 
 * **Fivetran:** Configured automated connectors to sync semi-structured data from **Google Drive** and external SaaS sources directly into the Databricks Delta Lake.
 * **Auto Loader:** Used for incremental data ingestion, ensuring schema evolution is handled automatically as new files arrive.
 
+Source (Google Drive) ➔ Fivetran ➔ Delta Lake (Bronze) ➔ PySpark (Gold) ➔ AI/BI Genie
+
 ---
 
 ## 🛠️ Core Competencies
