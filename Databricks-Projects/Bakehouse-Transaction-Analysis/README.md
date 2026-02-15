@@ -8,6 +8,20 @@ This project demonstrates the creation of an interactive Business Intelligence (
 * **Baseline vs. Segment Architecture:** Designed the dashboard with a "Control" layer to compare filtered results against the total dataset for better context.
 * **Aggregated Reporting:** Developed SQL logic to rank product performance by total revenue, identifying high-value items across the retail catalog.
 
+## 📊 Interactive Dashboard Preview
+To demonstrate the real-time filtering capabilities of the Databricks Lakehouse platform, see the animation below:
+
+![Bakehouse Transaction Analysis Demo](Bakehouse_Transaction-animation.gif)
+
+---
+
+## 📂 Project Assets
+The following resources were used to build and document this analysis:
+
+* **[Transaction Dashboard (Static)](Bakehouse-Transaction-Dashboard.png):** A high-resolution view of the final BI layout.
+* **[Interactive Demo (GIF)](Bakehouse_Transaction-animation.gif):** A recorded session showing the "Mastercard" wholesale filter logic.
+* **[Analysis SQL](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects/Bakehouse-Transaction-Analysis):** The underlying logic for the Gold-layer aggregations.
+
 ## Technical Implementation
 The dashboard logic is split between static baseline charts and dynamic visualizations that react to user input.
 
