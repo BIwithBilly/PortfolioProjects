@@ -25,7 +25,7 @@ This directory contains projects focused on automated data collection (Web Scrap
     - Outputs clean, structured data in CSV format for use in BI tools like Power BI or Tableau.
 - **Tech Stack:** Python, Pandas, BeautifulSoup4, Requests.
 
-## 3. **World Population Exploratory Data Analysis (EDA)**
+## 3. [World Population Exploratory Data Analysis (EDA)](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Python_Pandas-Projects/Pandas%20EDA/Exploratory%20Data%20Analysis%20in%20Pandas.ipynb)
 *Visualizing Global Growth Trends with Pandas*
 
 - **The Goal:** Perform a deep dive into 50 years of population data to identify growth patterns and outliers across continents.
