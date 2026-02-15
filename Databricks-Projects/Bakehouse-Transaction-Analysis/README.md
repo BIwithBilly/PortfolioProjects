@@ -21,6 +21,20 @@ GROUP by product
 ORDER BY sum(totalPrice) DESC;
 ```
 
+## 📊 Interactive Dashboard Preview
+To demonstrate the real-time filtering capabilities of the Databricks Lakehouse platform, see the animation below:
+
+![Bakehouse Transaction Analysis Demo](Bakehouse_Transaction-animation.gif)
+
+---
+
+## 📂 Project Assets
+The following resources were used to build and document this analysis:
+
+* **[Transaction Dashboard (Static)](Bakehouse-Transaction-Dashboard.png):** A high-resolution view of the final BI layout.
+* **[Interactive Demo (GIF)](Bakehouse_Transaction-animation.gif):** A recorded session showing the "Mastercard" wholesale filter logic.
+* **[Analysis SQL](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects/Bakehouse-Transaction-Analysis):** The underlying logic for the Gold-layer aggregations.
+
 ## Key Insights from Analysis
 * **Golden Gate Ginger** is the top revenue driver at **$11,595**.
 * **Outback Oatmeal** follows closely at **$11,199**.
