@@ -24,7 +24,8 @@ This repository showcases interactive data visualizations and business intellige
 *Focus: Environmental Data Science & Regional Trends*
 
 ![CO2 Trend Dashboard](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Tableau-Projects/CO2_Trend_Dashboard.png?raw=true)
-### [Global CO2 Emissions Tracker](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Tableau-Projects/C02_Emssions_by_Region_Dashboard.png)
+
+### [Global CO2 Emissions by Region](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Tableau-Projects/C02_Emssions_by_Region_Dashboard.png)
 ![CO2 Emissions by Region](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Tableau-Projects/C02_Emssions_by_Region_Dashboard.png?raw=true)
 
 * **📍 The Objective:** Track historical CO2 output across global regions to identify the largest contributors and the rate of industrial change.
