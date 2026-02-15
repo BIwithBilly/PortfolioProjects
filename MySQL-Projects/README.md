@@ -4,7 +4,7 @@
 In this project, I utilized **MySQL** to take a raw dataset of global tech layoffs and transform it into an analysis-ready format before performing Exploratory Data Analysis (EDA). This project demonstrates my ability to handle large datasets, implement complex data cleaning techniques, and extract meaningful business insights using SQL.
 
 ## 🛠 Data Cleaning Steps
-The cleaning process was performed in [layoffs_cleaning.sql](layoffs_cleaning.sql) and involved several critical phases:
+The cleaning process was performed in [layoffs_cleaning.sql](Layoffs_Project/layoffs_cleaning.sql) and involved several critical phases:
 1. **Staging:** Created a staging table to preserve the original raw data.
 2. **De-duplication:** Identified and removed duplicate records using the `ROW_NUMBER()` window function.
 3. **Standardization:** - Trimmed whitespace from company names.
@@ -15,7 +15,7 @@ The cleaning process was performed in [layoffs_cleaning.sql](layoffs_cleaning.sq
 6. **Finalization:** Removed unnecessary columns and rows that lacked critical layoff data.
 
 ## 📊 Exploratory Data Analysis (EDA)
-With the data cleaned, I performed an analysis in [layoffs_eda.sql](layoffs_eda.sql) to uncover trends:
+With the data cleaned, I performed an analysis in [layoffs_eda.sql](Layoffs_Project/layoffs_eda.sql) to uncover trends:
 - **Maximums:** Identified the largest single-day layoffs and companies that laid off 100% of their staff.
 - **Aggregations:** Summarized total layoffs by company, industry, and country.
 - **Time-Series:** Created a rolling total of layoffs by month to visualize the pace of layoffs over time.
