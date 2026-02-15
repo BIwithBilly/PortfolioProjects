@@ -41,4 +41,4 @@ This repository showcases interactive data visualizations and business intellige
 * **📖 Storytelling:** Designing dashboards with a logical "top-down" flow (KPIs → Trends → Granular Details).
 
 ## 🔗 Live Portfolio
-Explore the full range of interactive work on my **[Tableau Public Profile](https://public.tableau.com/app/discover)**.
+Explore the full range of interactive work on my **[Tableau Public Profile](https://public.tableau.com/app/profile/billy.lackey/vizzes)**.
