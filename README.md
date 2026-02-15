@@ -35,10 +35,13 @@ Welcome to my portfolio! This repository is organized by technology to showcase 
 
 ---
 
-### 🗄️ [SQL & Python Engineering](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MySQL-Projects)
+## 🗄️ [SQL & Python Engineering](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects)
+
 *The foundation of clean, reliable data pipelines.*
-* **MySQL: World Layoffs Data Cleaning:** Transforming messy raw data into analysis-ready sets using CTEs and Window Functions.
-* **Python: Amazon Price Tracker:** Automated price tracking system using BeautifulSoup and real-time email alerting.
+
+- **MySQL: World Layoffs Data Cleaning:** Transforming messy raw data into analysis-ready sets using CTEs and Window Functions.
+- **Python: World Population EDA:** Advanced [Pandas analysis](https://github.com/BIwithBilly/PortfolioProjects/blob/main/Python_Pandas-Projects/Pandas%20EDA/Exploratory%20Data%20Analysis%20in%20Pandas.ipynb) identifying global growth trends and outliers through statistical grouping and visual mapping.
+- **Python: Amazon Price Tracker:** Automated price tracking system using BeautifulSoup and real-time email alerting.
 
 ---
 
