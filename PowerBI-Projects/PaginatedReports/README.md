@@ -23,10 +23,10 @@ This collection demonstrates my proficiency in **Power BI Report Builder** and *
 
 ## 📂 Featured Reports
 
-### 1. Sales Performance (Visuals)
-* **Source:** Power BI Dataset / Analysis Services
+### 1. Sales Performance
+* **Source:** Power BI Dataset
 * **Key Features:** Integrated sparklines, cascading parameters, and aggregate calculated fields. This report is designed to give a high-level summary that can be drilled into for granular detail.
-* **Files:** [RDL File](Sales%20Performance%20(Visuals).rdl) | [View PDF](Sales%20Performance.pdf)
+* **Files:** [RDL File](Sales%20Performance.rdl) | [View PDF](Sales%20Performance.pdf)
 
 ### 2. Salesperson Directory
 * **Source:** External Data Source
