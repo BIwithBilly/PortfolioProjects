@@ -24,7 +24,7 @@ This Python-based automation tool monitors Amazon product prices in real-time. B
 ### 1. Prerequisites
 You will need to install the following dependencies:
 ```bash
-pip install requests beautifulsoup4 pandas
+pip install requests beautifulsoup4 pandas```
 
 ### 2. Configuration (Email Alerts)
 To use the email notification feature, update the `send_mail()` function in the `.ipynb` file with your credentials:
