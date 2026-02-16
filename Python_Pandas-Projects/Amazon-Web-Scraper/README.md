@@ -28,8 +28,8 @@ You will need to install the following dependencies:
 ### 2. Configuration (Email Alerts)
 To use the email notification feature, update the `send_mail()` function in the `.ipynb` file with your credentials:
 # Replace with your details
-```server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-server.login('YourEmail@gmail.com', 'YourAppPassword')```
+```server = smtplib.SMTP_SSL('smtp.gmail.com', 465)```
+```server.login('YourEmail@gmail.com', 'YourAppPassword')```
 
 > **Note:** For Gmail, you must use an **App Password** rather than your standard account password for security.
 
