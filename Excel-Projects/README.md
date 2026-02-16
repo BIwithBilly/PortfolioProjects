@@ -20,4 +20,4 @@ The goal of this project was to analyze customer data to identify trends and key
 * **Age Demographics:** The "Middle Age" bracket (31-54) showed the highest volume of bike purchases.
 * **Commute Impact:** Customers with shorter commutes (0-1 miles) were more likely to purchase a bike than those with commutes over 10 miles.
 
-![Bike Sales Dashboard](Excel_Dashboard.png)
+![Bike Sales Dashboard](BikeSales-animated.gif)
