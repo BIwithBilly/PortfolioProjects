@@ -34,6 +34,7 @@ Welcome to my portfolio! This repository is organized by technology to showcase 
 *Advanced modeling and DAX-driven business intelligence.*
 * **US Bank Failures Analysis:** A deep dive into 25 years of FDIC data using time-series animation and Star Schema modeling.
 * **Data Professional Survey:** Comprehensive breakdown of industry salary and tool trends.
+* **Paginated Reports Portfolio:** High-precision, print-ready RDL reports featuring complex parameters and nested grouping for operational excellence.
 
 ## 🎨 [Tableau - Visual Storytelling](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects)
 *Transforming complex data into intuitive, stakeholder-ready dashboards.*
