@@ -6,7 +6,7 @@ This project focuses on HR Analytics for **Atlas Labs**, a technology company. T
 ## 🖼️ Dashboard Preview
 Below is the main overview of the HR workforce. To see the full multi-page report, you can view the [Full Report PDF](./HR%20Case%20Study.pdf).
 
-![Atlas Labs Overview](./Atlas%20Labs%20Overview.pdf)
+![Atlas Labs Overview](./Atlas%20Labs%20Overview.png)
 
 ## 📊 Key Insights Uncovered
 * **Headcount Dynamics:** Atlas Labs has employed a total of **1,470 people**, with a current active workforce of **1,233 employees**.
