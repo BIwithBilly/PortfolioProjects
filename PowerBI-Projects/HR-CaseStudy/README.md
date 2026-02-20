@@ -13,10 +13,7 @@ This project focuses on HR Analytics for **Atlas Labs**, a technology company. T
     * Those identifying as **'Mixed or multiple ethnic groups'** have one of the lowest average salaries, suggesting a need for a deeper compensation audit.
 
 ## 🖼️ Dashboard Preview
-Below are the key pages from the Atlas Labs HR Report. You can also view the [Full Report PDF](./HR%20Case%20Study.pdf) here.
-
-### Overview & Demographics
-![HR Dashboard Overview](./Atlas%20Labs%20Overview.pdf)
+> **Note:** To see the full interactive experience, please download the `.pbix` file or view the PDF export.
 
 ### Data Model (Snowflake Schema)
 I designed a snowflake schema to optimize performance and ensure data integrity across HR dimensions.
@@ -45,6 +42,7 @@ I developed a suite of measures to track performance and attrition, including:
 ## 📂 Repository Contents
 * [**HR Case Study.pbix**](./HR%20Case%20Study.pbix) - The primary Power BI development file.
 * [**HR Case Study.pdf**](./HR%20Case%20Study.pdf) - A full multi-page export of the dashboard for quick viewing.
+* [**Atlas Labs Overview.pdf**](./Atlas%20Labs%20Overview.pdf) - Summary overview of the project.
 * [**HR Semantic Model.png**](./HR%20Samantic%20Model.png) - View of the snowflake schema and table relationships.
 
 ---
