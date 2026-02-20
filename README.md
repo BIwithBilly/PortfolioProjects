@@ -31,10 +31,13 @@ Welcome to my portfolio! This repository is organized by technology to showcase 
 * **World Layoffs Data Cleaning:** Transforming messy raw data into analysis-ready sets using CTEs, Window Functions, and schema optimization.
 
 ## 📊 [Power BI - Interactive Analytics](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects)
+
 *Advanced modeling and DAX-driven business intelligence.*
-* **US Bank Failures Analysis:** A deep dive into 25 years of FDIC data using time-series animation and Star Schema modeling.
-* **Data Professional Survey:** Comprehensive breakdown of industry salary and tool trends.
-* **Paginated Reports Portfolio:** High-precision, print-ready RDL reports featuring complex parameters and nested grouping for operational excellence.
+
+- **[HR Analytics Case Study: Atlas Labs](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/HR-CaseStudy):** A comprehensive talent management dashboard tracking 1,470+ employees. Features deep-dives into attrition drivers, gender parity, and pay equity using a Snowflake Schema.
+- **[US Bank Failures Analysis](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_Banks):** A deep dive into 25 years of FDIC data using time-series animation and Star Schema modeling.
+- **[Data Professional Survey](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/DataProfessionalSurveyBreakdown):** Comprehensive breakdown of industry salary and tool trends.
+- **[Paginated Reports Portfolio](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/PaginatedReports):** High-precision, print-ready RDL reports featuring complex parameters and nested grouping for operational excellence.
 
 ## 🎨 [Tableau - Visual Storytelling](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects)
 *Transforming complex data into intuitive, stakeholder-ready dashboards.*
