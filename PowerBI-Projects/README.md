@@ -4,6 +4,13 @@ This directory contains a collection of Power BI projects focused on transformin
 
 ## 📂 Featured Projects
 
+## 🏥 [HR Analytics Case Study: Atlas Labs](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/HR-CaseStudy)
+*Focus: Talent Management & Attrition Analysis*
+
+- **The Problem:** Atlas Labs needed to move from reactive human resources reporting to a proactive model that identifies attrition risks and demographic trends.
+- **The Solution:** Developed a comprehensive HR dashboard tracking 1,470+ employees, featuring deep-dives into age demographics, gender parity, and pay equity. 
+- **Key Tech:** Snowflake Schema Modeling, Power Query (Age Binning & FullName logic), and DAX (Attrition Rate & Active Headcount).
+
 ## 📄 [Paginated Reports Portfolio](./PaginatedReports)
 *Focus: Operational Excellence & Print-Ready Reporting*
 - **The Problem:** Dashboards are great for exploration, but businesses often need high-precision, multi-page documents for distribution or physical printing.
