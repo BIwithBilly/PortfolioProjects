@@ -12,6 +12,16 @@ This project focuses on HR Analytics for **Atlas Labs**, a technology company. T
 * **Pay Equity Observations:** * Initial analysis shows that employees identifying as **White** have the highest average salary.
     * Those identifying as **'Mixed or multiple ethnic groups'** have one of the lowest average salaries, suggesting a need for a deeper compensation audit.
 
+## 🖼️ Dashboard Preview
+Below are the key pages from the Atlas Labs HR Report. You can also view the [Full Report PDF](./HR%20Case%20Study.pdf) here.
+
+### Overview & Demographics
+![HR Dashboard Overview](./Screenshots/Atlas%20labs%20Overview.png)
+
+### Data Model (Snowflake Schema)
+I designed a snowflake schema to optimize performance and ensure data integrity across HR dimensions.
+![Data Model](./HR%20Samantic%20Model.png)
+
 ## 🛠️ Technical Implementation
 
 ### Data Modeling
