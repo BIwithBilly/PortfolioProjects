@@ -31,7 +31,7 @@ This directory contains a collection of Power BI projects focused on transformin
 
 ---
 
-### 🧱 [Lego Set Finder Dashboard](Lego_Set_Finder/README.md)
+## 🧱 [Lego Set Finder Dashboard](Lego_Set_Finder/README.md)
 *Focus: Collector Insights & Interactive Search*
 
 **The Problem:** Finding specific LEGO sets among thousands of options can be overwhelming for collectors looking for the best value or specific features like minifigure counts.
