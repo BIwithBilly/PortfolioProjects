@@ -1,7 +1,7 @@
 # 🍕 Microsoft Fabric End-to-End: Pizza Sales Analytics
 
 ## 📌 Project Overview
-This project demonstrates a comprehensive **"Full Stack" Data Engineering and BI** solution using **Microsoft Fabric**. The objective was to transform raw sales data into actionable insights based on a formal [Business Requirement Document]([Business%20Requirement%20Document.pptx](https://github.com/BIwithBilly/PortfolioProjects/blob/main/MSFabric-Project/PizzaSales/BusinessRequirements/README.md)). 
+This project demonstrates a comprehensive **"Full Stack" Data Engineering and BI** solution using **Microsoft Fabric**. The objective was to transform raw sales data into actionable insights based on a formal [Business Requirement Document](https://github.com/BIwithBilly/PortfolioProjects/blob/main/MSFabric-Project/PizzaSales/BusinessRequirements/README.md). 
 
 I managed the entire lifecycle within Fabric: from ingesting raw [CSV data](pizza_sales_file.csv) and performing heavy transformations in **Dataflow Gen2**, to architectural storage in **OneLake**, and finally delivering high-performance reporting via **Direct Lake** mode in Power BI.
 
