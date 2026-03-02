@@ -32,7 +32,7 @@ I utilized Power Query to clean and structure the LEGO database for analysis:
 
 ### Advanced Power BI Techniques & DAX
 Inspired by the **Maven Analytics** "LEGO Set Explorer" framework, I incorporated several advanced features to enhance the user experience:
-- **Numeric Range Parameters:** Allows users to dynamically filter the entire dashboard by specific piece count or price ranges.
+- **Numeric Range Parameters:** Allows users to dynamically filter the entire dashboard by specific theme groups, themes, age groups and price ranges.  A search funtion was also added to easily find a set.
 - **Dynamic Image Tooltips:** I developed a **Tooltip Control** measure that enables the report to dynamically render the correct set image when a user hovers over a data point.
 - **Decomposition Trees:** Used to break down set distributions by theme and sub-theme to see where the most "minifig-heavy" sets live.
 - **DAX Measures:** - `HASONEVALUE` logic to control visual interactions and prevent blank states.
