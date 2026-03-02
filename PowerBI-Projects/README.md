@@ -29,8 +29,6 @@ This directory contains a collection of Power BI projects focused on transformin
 - **The Solution:** Developed a time-series dashboard featuring a "Play Axis" animation to track the geographical spread of bank closures.
 - **Key Tech:** Star Schema Modeling, CALENDARAUTO() DAX, Play Axis Visuals, and Power Query standardization.
 
----
-
 ## 🧱 [Lego Set Finder Dashboard](Lego_Set_Finder/README.md)
 *Focus: Collector Insights & Interactive Search*
 
