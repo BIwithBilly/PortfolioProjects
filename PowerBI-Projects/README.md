@@ -43,10 +43,10 @@ This directory contains a collection of Power BI projects focused on transformin
 ## 🛠️ Core Competencies
 
 - **Data Transformation & Orchestration:** Advanced Power Query (M) logic, merging disparate data sources, and handling complex parameters in both PBIX and RDL formats.
-- **Advanced DAX & Expressions:** Creating calculated measures for time-intelligence and using the SSRS Expression Editor for dynamic report behavior.
-- **Relational Modeling:** Designing efficient Star Schemas to support high-performance analytical reporting.
+- **Advanced DAX & Tooltip Logic:** Creating calculated measures for time-intelligence, user-defined budget filters, and dynamic Tooltip Control for visual data discovery.
+- **Relational & Flat Modeling:** Designing high-performance analytical models, including efficient Star Schemas and optimized Single-Table architectures.
+- **Interactive Features & UX:** Enhancing "End User" adoption through Numeric Range Parameters, Decomposition Trees, custom tooltips, and toggleable visibility.
 - **Hybrid Reporting Solutions:** Proficiency in choosing the right tool for the job—Interactive Dashboards for "The Why" and Paginated Reports for "The Detail."
-- **UX/UI Design:** Focus on "End User" adoption through intuitive navigation, custom tooltips, drill-through actions, and toggleable visibility.
 
 ---
 
