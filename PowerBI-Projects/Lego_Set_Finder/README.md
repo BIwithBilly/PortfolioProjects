@@ -17,26 +17,27 @@ Below is the primary interface for the LEGO Set Finder. You can view the full in
 ## 🛠️ Technical Implementation
 
 ### Data Modeling & Structure
-This project utilizes a streamlined flat-table architecture, optimized for performance within Power BI. To maintain a clean and professional development environment, all DAX logic is organized within a dedicated **Measures Table**.
+This project utilizes a streamlined flat-table architecture, optimized for performance within Power BI. To maintain a clean and professional development environment, all DAX logic is organized within a dedicated **Measure Table**.
 
 - **Fact Table:** `lego_sets` (Contains all set details, pricing, and piece counts)
-- **Calculated Logic:** Managed via a centralized measures folder for scalability.
+- **Calculated Logic:** Managed via a centralized measures table for scalability and ease of maintenance.
 
 ![Data Model](LegoDataModel.png)
 
 ### Power Query Transformations
 I utilized Power Query to clean and structure the LEGO database for analysis:
+- **Data Cleaning:** Handled missing values and standardized set names and themes.
 - **Price Per Piece:** Created a calculated column to determine the value-for-money of different sets.
-- **Minifig Density:** Developed logic to highlight sets with high minifigure counts.
-- **Data Enrichment:** Cleaned and formatted image URL paths to enable dynamic thumbnail rendering directly within the dashboard visuals.
+- **Image Integration:** Cleaned and formatted image URL paths to enable dynamic thumbnail rendering directly within the dashboard visuals.
 
-### Advanced Power BI Techniques
+### Advanced Power BI Techniques & DAX
 Inspired by the **Maven Analytics** "LEGO Set Explorer" framework, I incorporated several advanced features to enhance the user experience:
 - **Numeric Range Parameters:** Allows users to dynamically filter the entire dashboard by specific piece count or price ranges.
-- **Custom Image Tooltips:** Hovering over any set name triggers a visual preview of the box art using report page tooltips.
+- **Dynamic Image Tooltips:** I developed a **Tooltip Control** measure that enables the report to dynamically render the correct set image when a user hovers over a data point.
 - **Decomposition Trees:** Used to break down set distributions by theme and sub-theme to see where the most "minifig-heavy" sets live.
 - **DAX Measures:** - `HASONEVALUE` logic to control visual interactions and prevent blank states.
-    - Aggregation measures for **Average Price**, **Total Sets**, and **Total Minifigures**.
+    - `Avg_Price`, `Avg_Pieces`, and `Total_Sets` to provide high-level KPIs.
+    - `Max Price Filter` logic to ensure the dashboard remains responsive to user-defined budget constraints.
 
 ## 📈 Price vs. Piece Count Analysis
 The regression chart below highlights pricing trends across different set sizes, helping collectors identify which themes offer the most value.
