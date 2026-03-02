@@ -30,15 +30,15 @@ Welcome to my portfolio! This repository is organized by technology to showcase 
 *Advanced querying and data cleaning within relational databases.*
 * **World Layoffs Data Cleaning:** Transforming messy raw data into analysis-ready sets using CTEs, Window Functions, and schema optimization.
 
-## 📊 [Power BI - Interactive Analytics](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects)
-
+## 📊 [Power BI - Interactive Analytics](PowerBI-Projects/README.md)
 *Advanced modeling and DAX-driven business intelligence.*
 
-- **[HR Analytics Case Study: Atlas Labs](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/HR-CaseStudy):** A comprehensive talent management dashboard tracking 1,470+ employees. Features deep-dives into attrition drivers, gender parity, and pay equity using a Snowflake Schema.
-- **[US Bank Failures Analysis](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_Banks):** A deep dive into 25 years of FDIC data using time-series animation and Star Schema modeling.
-- **[Data Professional Survey](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/DataProfessionalSurveyBreakdown):** Comprehensive breakdown of industry salary and tool trends.
-- **[Paginated Reports Portfolio](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/PaginatedReports):** High-precision, print-ready RDL reports featuring complex parameters and nested grouping for operational excellence.
-
+- [Lego Set Finder Dashboard](PowerBI-Projects/Lego_Set_Finder/README.md): An interactive search engine for 4,000+ LEGO sets. Features dynamic filtering by price and piece count, custom DAX-driven image tooltips for visual discovery, and regression analysis to identify collector value. Inspired by family nostalgia and the hunt for the ultimate minifigure-heavy sets.
+- [HR Analytics Case Study: Atlas Labs](PowerBI-Projects/HR-CaseStudy/README.md): A comprehensive talent management dashboard tracking 1,470+ employees. Features deep-dives into attrition drivers, gender parity, and pay equity using a Snowflake Schema.
+- [US Bank Failures Analysis](PowerBI-Projects/US_Failed_Banks/README.md): A deep dive into 25 years of FDIC data using time-series animation and Star Schema modeling.
+- [Data Professional Survey](PowerBI-Projects/DataProfessionalSurveyBreakdown/README.md): Comprehensive breakdown of industry salary and tool trends.
+- [Paginated Reports Portfolio](PowerBI-Projects/PaginatedReports/README.md): High-precision, print-ready RDL reports featuring complex parameters and nested grouping for operational excellence.
+  
 ## 🎨 [Tableau - Visual Storytelling](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects)
 *Transforming complex data into intuitive, stakeholder-ready dashboards.*
 * **AirBnB Market Analysis:** Geospatial revenue analysis for Seattle real estate investment strategy.
