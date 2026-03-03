@@ -39,7 +39,7 @@ The final stage uses **CTAS** to move data into the **Gold Data Warehouse**. Thi
 | *Structured 'Gold' schema and tables.* | *Final relationship diagram for Fact Sales.* |
 
 ## 🛠️ Advanced Analytics & Visual Querying
-To showcase Fabric's versatility for different user roles, I implemented **Visual Queries**. This allows for complex data analysis and view creation using a low-code "Power Query" style interface directly on top of the Data Warehouse.
+To showcase Fabric's versatility for different user roles, I implemented a **Visual Query**. This allows for complex data analysis and view creation using a low-code "Power Query" style interface directly on top of the Data Warehouse.
 
 ![Visual Query](Visual_Query.png)
 *Figure: Creating a 'Customer View' using the Visual Query editor to perform joins and aggregations without writing SQL.*
