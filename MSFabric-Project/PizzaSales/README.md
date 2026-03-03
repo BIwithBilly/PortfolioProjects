@@ -38,8 +38,9 @@ To ensure maximum performance without data duplication, I leveraged the **Direct
 - **Performance:** Direct Lake allows Power BI to read Parquet files directly from OneLake with the speed of Import mode.
 - **Technical Proof:** The [Storage Mode Verification](Direct%20Lake%20Storage%20Mode%20Verification.png) confirms that the model queries OneLake directly.
 
-![Direct Lake Storage Mode Verification](Direct%20Lake%20Storage%20Mode%20Verification.png)
-*Figure 4: [Evidence of Direct Lake connectivity](Direct%20Lake%20Storage%20Mode%20Verification.png)—no refresh latency between Lakehouse and Report.*
+<img src="Direct%20Lake%20Storage%20Mode%20Verification.png" alt="Direct Lake Storage Mode Verification" width="500">
+
+*Figure 4: [Evidence of Direct Lake connectivity](https://github.com/BIwithBilly/PortfolioProjects/blob/main/MSFabric-Project/PizzaSales/Direct%20Lake%20Storage%20Mode%20Verification.png) — no refresh latency between Lakehouse and Report.*
 
 ## 📂 Repository Contents
 - [Business Requirement Document.pptx](Business%20Requirement%20Document.pptx) - Project scoping and KPIs.
