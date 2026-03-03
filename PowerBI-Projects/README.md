@@ -40,11 +40,9 @@ This directory contains a collection of Power BI projects focused on transformin
 ## 🧱 [Lego Set Finder Dashboard](Lego_Set_Finder/README.md)
 *Focus: Collector Insights & Interactive Search*
 
-**The Problem:** Finding specific LEGO sets among thousands of options can be overwhelming for collectors looking for the best value or specific features like minifigure counts.
-
-**The Solution:** Built an interactive search engine for 4,000+ LEGO sets, featuring dynamic filtering, value-for-money analysis, and custom tooltips for visual set discovery.
-
-**Key Tech:** Single-Table Modeling, Numeric Range Parameters, Tooltip Control DAX, and Decomposition Trees.
+- **The Problem:** Finding specific LEGO sets among thousands of options can be overwhelming for collectors looking for the best value or specific features like minifigure counts.
+- **The Solution:** Built an interactive search engine for 4,000+ LEGO sets, featuring dynamic filtering, value-for-money analysis, and custom tooltips for visual set discovery.
+- **Key Tech:** Single-Table Modeling, Numeric Range Parameters, Tooltip Control DAX, and Decomposition Trees.
 
 ---
 
