@@ -65,4 +65,4 @@ Welcome to my portfolio! This repository is organized by technology to showcase 
 
 ## 📫 Let's Connect!
 
-[LinkedIn Profile](www.linkedin.com/in/billylackey12280325) | [Portfolio Website]([https://github.com/BIwithBilly/PortfolioProjects/commits?author=BIwithBilly](https://biwithbilly.github.io/)) | *Email:* billy.lackey@gmail.com
+[LinkedIn Profile](https://www.linkedin.com/in/billylackey12280325) | [Portfolio Website](https://biwithbilly.github.io/) | *Email:* billy.lackey@gmail.com
