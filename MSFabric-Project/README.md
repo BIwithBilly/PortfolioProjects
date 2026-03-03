@@ -4,8 +4,10 @@ This repository contains a collection of end-to-end data engineering projects sh
 
 ## 📂 Featured Projects
 
-## 🏛️ **End-to-End Medallion Architecture: AdventureWorks**
+## 🏛️ [End-to-End Medallion Architecture: AdventureWorks](Fabric-Medallion-Architecture-EndToEnd)
 *Focus: Scalable Data Engineering & Orchestration*
+
+![Data Lineage](Fabric-Medallion-Architecture-EndToEnd/BI_with_Billy_Linage.png)
 
 - **The Problem:** Processing large-scale sales data from multiple disparate sources (APIs and Cloud Storage) often results in "data silos" and inconsistent reporting logic.
 - **The Solution:** Implemented a full Medallion Architecture (Bronze → Silver → Gold). This creates a clear "chain of custody" for data, moving from raw ingestion to a cleansed standardization layer, and finally into a high-performance Star Schema Warehouse.
@@ -14,8 +16,10 @@ This repository contains a collection of end-to-end data engineering projects sh
     - **Architecture:** OneLake managed Delta tables and a Gold Data Warehouse with T-SQL/CTAS logic.
     - **Operations:** Fabric Deployment Pipelines for CI/CD across Dev/Test/Prod environments.
 
-## 🍕 **Pizza Sales Analytics: Direct-to-Gold**
+## 🍕 [Pizza Sales Analytics: Direct-to-Gold](PizzaSales)
 *Focus: Agile Transformation & Performance Modeling*
+
+![Pizza Dashboard](PizzaSales/Home%20Dashboard.png)
 
 - **The Problem:** Stakeholders required rapid executive insights into peak order hours and inventory turnover without the latency of traditional scheduled refreshes.
 - **The Solution:** Developed an agile "Direct-to-Gold" pipeline. By utilizing heavy-lifting transformations in Dataflow Gen2 and landing data directly into an optimized Lakehouse, I enabled real-time-ready analytics.
