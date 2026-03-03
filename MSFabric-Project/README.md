@@ -19,7 +19,7 @@ This repository contains a collection of end-to-end data engineering projects sh
 ## 🍕 [Pizza Sales Analytics: Direct-to-Gold](PizzaSales)
 *Focus: Agile Transformation & Performance Modeling*
 
-![Pizza Dashboard](PizzaSales/Home%20Dashboard.png)
+![Pizza Dashboard](PizzaSales/Home%20Dashboard2.png)
 
 - **The Problem:** Stakeholders required rapid executive insights into peak order hours and inventory turnover without the latency of traditional scheduled refreshes.
 - **The Solution:** Developed an agile "Direct-to-Gold" pipeline. By utilizing heavy-lifting transformations in Dataflow Gen2 and landing data directly into an optimized Lakehouse, I enabled real-time-ready analytics.
