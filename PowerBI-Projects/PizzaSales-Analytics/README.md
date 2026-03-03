@@ -3,10 +3,10 @@
 ## 📌 Project Overview
 This dashboard is the visualization layer of a **Full-Stack Microsoft Fabric** project. While the final insights are presented here, the true power of this solution lies in its underlying architecture, featuring **Direct Lake** connectivity—the fastest and most efficient way to connect Power BI to massive datasets in OneLake.
 
-## 🖼️ Dashboard Preview
-![Pizza Sales Dashboard Teaser](Home%20Dashboard.png)
+[![Pizza Sales Dashboard Teaser](Home%20Dashboard.png)](Home%20Dashboard.png)
 *Figure 1: Executive Overview of the Pizza Sales Analytics platform.*
 
+<br>
 
 [![Best/Worst Sales Report](Best_Worst%20Report.png)](Best_Worst%20Report.png)
 *Figure 2: Analysis of Top and Bottom Performing Pizza Categories and Sizes.*
