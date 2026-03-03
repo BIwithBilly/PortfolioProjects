@@ -11,6 +11,14 @@ This directory contains a collection of Power BI projects focused on transformin
 - **The Solution:** Developed a comprehensive HR dashboard tracking 1,470+ employees, featuring deep-dives into age demographics, gender parity, and pay equity. 
 - **Key Tech:** Snowflake Schema Modeling, Power Query (Age Binning & FullName logic), and DAX (Attrition Rate & Active Headcount).
 
+## 🍕 [Pizza Sales Analytics](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/PizzaSales-Analytics)
+
+*Focus: Full-Stack Microsoft Fabric & Direct Lake Connectivity*
+
+- **The Problem:** Traditional Power BI 'Import' or 'DirectQuery' methods can suffer from data refresh latency and performance bottlenecks when handling massive datasets.
+- **The Solution:** Implemented a high-performance analytics platform using Microsoft Fabric, connecting directly to Delta tables in OneLake via Direct Lake mode to provide real-time insights without refresh delays.
+- **Key Tech:** Microsoft Fabric (Lakehouse), Direct Lake Connectivity, Dataflow Gen2, and SQL/DAX.
+
 ## 📄 [Paginated Reports Portfolio](./PaginatedReports)
 *Focus: Operational Excellence & Print-Ready Reporting*
 - **The Problem:** Dashboards are great for exploration, but businesses often need high-precision, multi-page documents for distribution or physical printing.
