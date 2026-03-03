@@ -7,6 +7,7 @@ This dashboard is the visualization layer of a **Full-Stack Microsoft Fabric** p
 ![Pizza Sales Dashboard Teaser](Home%20Dashboard.png)
 *Figure 1: Executive Overview of the Pizza Sales Analytics platform.*
 
+
 [![Best/Worst Sales Report](Best_Worst%20Report.png)](Best_Worst%20Report.png)
 *Figure 2: Analysis of Top and Bottom Performing Pizza Categories and Sizes.*
 
