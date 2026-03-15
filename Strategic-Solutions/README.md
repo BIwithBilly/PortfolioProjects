@@ -26,5 +26,5 @@
     3. **Control Costs:** Use data, not guesses, to estimate project timelines.
     
     ---
-    **Looking for a technical deep-dive?** *The core logic for this engine is maintained in a private repository to protect intellectual property. For a live demonstration or architectural walkthrough, please reach out via [LinkedIn](URL_TO_YOUR_LINKEDIN) or my website.*
+    **Looking for a technical deep-dive?** *The core logic for this engine is maintained in a private repository to protect intellectual property. For a live demonstration or architectural walkthrough, please reach out via [LinkedIn](https://www.linkedin.com/in/billy-lackey/) or my website.*
     
