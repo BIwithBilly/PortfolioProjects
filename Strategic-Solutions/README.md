@@ -4,7 +4,7 @@
     
     ---
     
-    ## 🛠 Featured Solution: BI Migration Engine (Tableau to Power BI)
+## 🛠 Featured Solution: BI Migration Engine (Tableau to Power BI)
     
     A high-performance Python automation suite designed to de-risk and accelerate enterprise-scale BI migrations. This engine moves beyond basic lift-and-shift approaches by providing deep semantic analysis of legacy workbooks.
     
