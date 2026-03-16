@@ -20,9 +20,17 @@ A high-performance Python automation suite designed to de-risk and accelerate en
 * **Data-Driven Effort Estimation:** Assigns complexity weights to workbooks, providing leadership with accurate projections for development hours and project costs.
 * **Risk Profile Assessment:** Categorizes migration tasks by risk level (High/Med/Low) based on nested logic and visual density.
     
-### 📋 Sample Deliverables:
-* **Executive Portfolio Summary:** A multi-workbook audit report for C-suite prioritization.
-* **Migration Blueprints:** Granular technical roadmaps for developers, including visual inventories and schema mapping.
+### Sample Reports & Deliverables
+
+#### Portfolio Summary
+> A high-level executive overview of the entire migration project, aggregating complexity scores, effort estimates, and risk profiles across all workbooks.
+>
+> [View Portfolio_Summary.md](./Reports/Portfolio_Summary.md)
+
+#### Standard Migration Blueprint Example: Associate Dashboard
+> A technical roadmap for individual workbooks, featuring a Visual Canvas, Data Schema, and a Logic & Translation Dictionary for DAX conversion.
+>
+> [View AssociateDashboard_Blueprint.md](./Reports/AssociateDashboard_Blueprint.md)
     
 ---
 ## 🎯 Why This Matters
@@ -32,5 +40,5 @@ Migration is often the most expensive and high-risk phase of a BI modernization 
 3. **Control Costs:** Use data, not guesses, to estimate project timelines.
     
 ---
-**Looking for a technical deep-dive?** *The core logic for this engine is maintained in a private repository to protect intellectual property. For a live demonstration or architectural walkthrough, please reach out via [LinkedIn](https://www.linkedin.com/in/billy-lackey/) or my website.*
+**Looking for a technical deep-dive?** *The core logic for this engine is maintained in a private repository to protect intellectual property. For a live demonstration or architectural walkthrough, please reach out via [LinkedIn](https://www.linkedin.com/in/billy-lackey/) or [Visit my Website](https://biwithbilly.github.io).*
     
