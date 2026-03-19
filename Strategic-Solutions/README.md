@@ -25,7 +25,7 @@ A high-performance Python automation suite designed to de-risk and accelerate en
 #### Portfolio Summary
 > A high-level executive overview of the entire migration project, aggregating complexity scores, effort estimates, and risk profiles across all workbooks.
 >
-> [View Portfolio_Summary.md](./Reports/Portfolio_Summary.md)
+> [View Portfolio_Summary.md](https://github.com/BIwithBilly/BI_Migration_Engine/blob/main/Reports/Portfolio_Summary.md)
 
 #### Standard Migration Blueprint Example: Associate Dashboard
 > A technical roadmap for individual workbooks, featuring a Visual Canvas, Data Schema, and a Logic & Translation Dictionary for DAX conversion.
