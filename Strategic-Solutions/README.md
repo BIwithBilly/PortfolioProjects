@@ -30,7 +30,7 @@ A high-performance Python automation suite designed to de-risk and accelerate en
 #### Standard Migration Blueprint Example: Associate Dashboard
 > A technical roadmap for individual workbooks, featuring a Visual Canvas, Data Schema, and a Logic & Translation Dictionary for DAX conversion.
 >
-> [View AssociateDashboard_Blueprint.md](./Reports/AssociateDashboard_Blueprint.md)
+> [View AssociateDashboard_Blueprint.md](https://github.com/BIwithBilly/BI_Migration_Engine/blob/main/Reports/AssociateDashboard_Blueprint.md)
     
 ---
 ## 🎯 Why This Matters
